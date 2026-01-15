@@ -96,7 +96,7 @@ Layout.jsx
 
 ### Base URL
 ```
-http://localhost:5000/api
+https://merchantapi.ttsa.uz/api
 ```
 
 ### Endpoints Used
